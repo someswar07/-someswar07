@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I’m Someswar👋
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="Som" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 <!--
 **someswar07/someswar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Software Engineer with over 13 years of enriching industry experience. My journey through various product-based organisations and startups has been an exciting tale of translating business challenges into elegant software solutions.
+
+- 👯 Throughout my career, I’ve had the privilege to collaborate with innovative minds and tackle a diverse range of problems. My passion for coding and design has not only shaped my professional trajectory but also fuelled my commitment to continuous learning and growth.
+
+- 💬 On this platform, I intend to share my insights, experiences, and technical know-how to inspire fellow software engineers. Whether you’re a novice navigating the realm of coding or a seasoned developer seeking fresh perspectives, I invite you to join me on this journey of exploration and innovation.
+
+- 😄 Thank you for visiting, and I look forward to connecting with you!
+
+
+- 📫 How to reach me:
+- https://altviatech.com/
+- www.linkedin.com/in/someswar-bhowmick-23840644
+
+Someswar Bhowmick
+
+
