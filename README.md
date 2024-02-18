@@ -1,9 +1,9 @@
 ### Hi there, I’m Someswar👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/someswar07/someswar07/blob/main/images/Prof_pic_new.jpeg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/someswar07/someswar07/blob/main/images/Prof_pic_new.jpeg">
- <img alt="Som" src="https://github.com/someswar07/someswar07/blob/main/images/Prof_pic_new.jpeg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/someswar07/someswar07/blob/main/images/Prof_pic_new.jpeg" width="150" height="150">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/someswar07/someswar07/blob/main/images/Prof_pic_new.jpeg" width="150" height="150">
+ <img alt="Som" src="https://github.com/someswar07/someswar07/blob/main/images/Prof_pic_new.jpeg" width="150" height="150">
 </picture>
 
 <!--
