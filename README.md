@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me:
-- https://altviatech.com/
+- https://someswarbhowmick.in/
 - www.linkedin.com/in/someswar-bhowmick-23840644
 
 Someswar Bhowmick
